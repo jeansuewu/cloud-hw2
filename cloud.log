@@ -1,0 +1,582 @@
+2024-05-12 23:46:47 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-12 23:46:48 - src.acquire_data - INFO - Data written to runs/1715575607/clouds.data
+2024-05-12 23:46:48 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-12 23:46:48 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715575607/clouds.csv
+2024-05-12 23:46:49 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_1.png
+2024-05-12 23:46:49 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_2.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_3.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_4.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_5.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_6.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_7.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_8.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_9.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_10.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_11.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_12.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_13.png
+2024-05-12 23:46:50 - src.analysis - INFO - Figure saved to: runs/1715575607/figures/figure_14.png
+2024-05-12 23:46:50 - src.train_model - INFO - Training started...
+2024-05-12 23:46:50 - src.train_model - INFO - Training completed.
+2024-05-12 23:46:50 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715575607
+2024-05-12 23:46:50 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 00:59:46 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 00:59:47 - src.acquire_data - INFO - Data written to runs/1715579986/clouds.data
+2024-05-13 00:59:47 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 00:59:47 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715579986/clouds.csv
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_1.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_2.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_3.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_4.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_5.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_6.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_7.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_8.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_9.png
+2024-05-13 00:59:49 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_10.png
+2024-05-13 00:59:50 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_11.png
+2024-05-13 00:59:50 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_12.png
+2024-05-13 00:59:50 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_13.png
+2024-05-13 00:59:50 - src.analysis - INFO - Figure saved to: runs/1715579986/figures/figure_14.png
+2024-05-13 00:59:50 - src.train_model - INFO - Training started...
+2024-05-13 00:59:50 - src.train_model - INFO - Training completed.
+2024-05-13 00:59:50 - src.train_model - INFO - Saving the train and test data
+2024-05-13 00:59:50 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715579986
+2024-05-13 00:59:50 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 00:59:50 - src.train_model - INFO - Finished saving trained model to runs/1715579986/trained_model_object.pkl
+2024-05-13 00:59:50 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 00:59:58 - src.aws_utils - ERROR - Error while uploading artifacts to S3
+2024-05-13 01:04:23 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:04:24 - src.acquire_data - INFO - Data written to runs/1715580263/clouds.data
+2024-05-13 01:04:24 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:04:24 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715580263/clouds.csv
+2024-05-13 01:04:25 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_1.png
+2024-05-13 01:04:25 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_2.png
+2024-05-13 01:04:25 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_3.png
+2024-05-13 01:04:25 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_4.png
+2024-05-13 01:04:25 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_5.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_6.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_7.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_8.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_9.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_10.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_11.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_12.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_13.png
+2024-05-13 01:04:26 - src.analysis - INFO - Figure saved to: runs/1715580263/figures/figure_14.png
+2024-05-13 01:04:26 - src.train_model - INFO - Training started...
+2024-05-13 01:04:26 - src.train_model - INFO - Training completed.
+2024-05-13 01:04:26 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:04:26 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715580263
+2024-05-13 01:04:26 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:04:26 - src.train_model - INFO - Finished saving trained model to runs/1715580263/trained_model_object.pkl
+2024-05-13 01:04:26 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:05:34 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:05:35 - src.acquire_data - INFO - Data written to runs/1715580334/clouds.data
+2024-05-13 01:05:35 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:05:35 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715580334/clouds.csv
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_1.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_2.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_3.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_4.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_5.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_6.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_7.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_8.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_9.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_10.png
+2024-05-13 01:05:37 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_11.png
+2024-05-13 01:05:38 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_12.png
+2024-05-13 01:05:38 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_13.png
+2024-05-13 01:05:38 - src.analysis - INFO - Figure saved to: runs/1715580334/figures/figure_14.png
+2024-05-13 01:05:38 - src.train_model - INFO - Training started...
+2024-05-13 01:05:38 - src.train_model - INFO - Training completed.
+2024-05-13 01:05:38 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:05:38 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715580334
+2024-05-13 01:05:38 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:05:38 - src.train_model - INFO - Finished saving trained model to runs/1715580334/trained_model_object.pkl
+2024-05-13 01:05:38 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:05:42 - src.aws_utils - ERROR - Error while uploading artifacts to S3
+2024-05-13 01:22:57 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:22:58 - src.acquire_data - INFO - Data written to runs/1715581377/clouds.data
+2024-05-13 01:22:58 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:22:58 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715581377/clouds.csv
+2024-05-13 01:22:59 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_1.png
+2024-05-13 01:22:59 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_2.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_3.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_4.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_5.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_6.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_7.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_8.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_9.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_10.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_11.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_12.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_13.png
+2024-05-13 01:23:00 - src.analysis - INFO - Figure saved to: runs/1715581377/figures/figure_14.png
+2024-05-13 01:23:00 - src.train_model - INFO - Training started...
+2024-05-13 01:23:00 - src.train_model - INFO - Training completed.
+2024-05-13 01:23:00 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:23:00 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715581377
+2024-05-13 01:23:00 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:23:00 - src.train_model - INFO - Finished saving trained model to runs/1715581377/trained_model_object.pkl
+2024-05-13 01:23:00 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:23:12 - src.aws_utils - ERROR - Error while uploading artifacts to S3
+2024-05-13 01:32:37 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:32:38 - src.acquire_data - INFO - Data written to runs/1715581957/clouds.data
+2024-05-13 01:32:38 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:32:38 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715581957/clouds.csv
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_1.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_2.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_3.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_4.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_5.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_6.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_7.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_8.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_9.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_10.png
+2024-05-13 01:32:40 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_11.png
+2024-05-13 01:32:41 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_12.png
+2024-05-13 01:32:41 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_13.png
+2024-05-13 01:32:41 - src.analysis - INFO - Figure saved to: runs/1715581957/figures/figure_14.png
+2024-05-13 01:32:41 - src.train_model - INFO - Training started...
+2024-05-13 01:32:41 - src.train_model - INFO - Training completed.
+2024-05-13 01:32:41 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:32:41 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715581957
+2024-05-13 01:32:41 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:32:41 - src.train_model - INFO - Finished saving trained model to runs/1715581957/trained_model_object.pkl
+2024-05-13 01:32:41 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:33:07 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:33:08 - src.acquire_data - INFO - Data written to runs/1715581987/clouds.data
+2024-05-13 01:33:08 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:33:08 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715581987/clouds.csv
+2024-05-13 01:33:08 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_1.png
+2024-05-13 01:33:08 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_2.png
+2024-05-13 01:33:08 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_3.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_4.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_5.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_6.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_7.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_8.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_9.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_10.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_11.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_12.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_13.png
+2024-05-13 01:33:09 - src.analysis - INFO - Figure saved to: runs/1715581987/figures/figure_14.png
+2024-05-13 01:33:09 - src.train_model - INFO - Training started...
+2024-05-13 01:33:09 - src.train_model - INFO - Training completed.
+2024-05-13 01:33:09 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:33:09 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715581987
+2024-05-13 01:33:09 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:33:09 - src.train_model - INFO - Finished saving trained model to runs/1715581987/trained_model_object.pkl
+2024-05-13 01:33:09 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:33:10 - src.aws_utils - INFO - S3 successfully
+2024-05-13 01:35:18 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:35:19 - src.acquire_data - INFO - Data written to runs/1715582118/clouds.data
+2024-05-13 01:35:19 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:35:19 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715582118/clouds.csv
+2024-05-13 01:35:20 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_1.png
+2024-05-13 01:35:20 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_2.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_3.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_4.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_5.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_6.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_7.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_8.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_9.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_10.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_11.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_12.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_13.png
+2024-05-13 01:35:21 - src.analysis - INFO - Figure saved to: runs/1715582118/figures/figure_14.png
+2024-05-13 01:35:21 - src.train_model - INFO - Training started...
+2024-05-13 01:35:21 - src.train_model - INFO - Training completed.
+2024-05-13 01:35:21 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:35:21 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715582118
+2024-05-13 01:35:21 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:35:21 - src.train_model - INFO - Finished saving trained model to runs/1715582118/trained_model_object.pkl
+2024-05-13 01:35:21 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:36:00 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:36:01 - src.acquire_data - INFO - Data written to runs/1715582160/clouds.data
+2024-05-13 01:36:01 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:36:01 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715582160/clouds.csv
+2024-05-13 01:36:02 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_1.png
+2024-05-13 01:36:02 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_2.png
+2024-05-13 01:36:02 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_3.png
+2024-05-13 01:36:02 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_4.png
+2024-05-13 01:36:02 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_5.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_6.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_7.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_8.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_9.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_10.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_11.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_12.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_13.png
+2024-05-13 01:36:03 - src.analysis - INFO - Figure saved to: runs/1715582160/figures/figure_14.png
+2024-05-13 01:36:03 - src.train_model - INFO - Training started...
+2024-05-13 01:36:03 - src.train_model - INFO - Training completed.
+2024-05-13 01:36:03 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:36:03 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715582160
+2024-05-13 01:36:03 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:36:03 - src.train_model - INFO - Finished saving trained model to runs/1715582160/trained_model_object.pkl
+2024-05-13 01:36:03 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:36:33 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:36:34 - src.acquire_data - INFO - Data written to runs/1715582193/clouds.data
+2024-05-13 01:36:34 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:36:34 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715582193/clouds.csv
+2024-05-13 01:36:34 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_1.png
+2024-05-13 01:36:34 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_2.png
+2024-05-13 01:36:34 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_3.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_4.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_5.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_6.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_7.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_8.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_9.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_10.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_11.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_12.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_13.png
+2024-05-13 01:36:35 - src.analysis - INFO - Figure saved to: runs/1715582193/figures/figure_14.png
+2024-05-13 01:36:35 - src.train_model - INFO - Training started...
+2024-05-13 01:36:35 - src.train_model - INFO - Training completed.
+2024-05-13 01:36:35 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:36:35 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715582193
+2024-05-13 01:36:35 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:36:35 - src.train_model - INFO - Finished saving trained model to runs/1715582193/trained_model_object.pkl
+2024-05-13 01:36:35 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:37:11 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:37:12 - src.acquire_data - INFO - Data written to runs/1715582231/clouds.data
+2024-05-13 01:37:12 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:37:12 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715582231/clouds.csv
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_1.png
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_2.png
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_3.png
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_4.png
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_5.png
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_6.png
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_7.png
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_8.png
+2024-05-13 01:37:13 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_9.png
+2024-05-13 01:37:14 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_10.png
+2024-05-13 01:37:14 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_11.png
+2024-05-13 01:37:14 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_12.png
+2024-05-13 01:37:14 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_13.png
+2024-05-13 01:37:14 - src.analysis - INFO - Figure saved to: runs/1715582231/figures/figure_14.png
+2024-05-13 01:37:14 - src.train_model - INFO - Training started...
+2024-05-13 01:37:14 - src.train_model - INFO - Training completed.
+2024-05-13 01:37:14 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:37:14 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715582231
+2024-05-13 01:37:14 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:37:14 - src.train_model - INFO - Finished saving trained model to runs/1715582231/trained_model_object.pkl
+2024-05-13 01:37:14 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 01:37:51 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 01:37:52 - src.acquire_data - INFO - Data written to runs/1715582271/clouds.data
+2024-05-13 01:37:52 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 01:37:52 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715582271/clouds.csv
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_1.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_2.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_3.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_4.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_5.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_6.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_7.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_8.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_9.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_10.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_11.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_12.png
+2024-05-13 01:37:53 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_13.png
+2024-05-13 01:37:54 - src.analysis - INFO - Figure saved to: runs/1715582271/figures/figure_14.png
+2024-05-13 01:37:54 - src.train_model - INFO - Training started...
+2024-05-13 01:37:54 - src.train_model - INFO - Training completed.
+2024-05-13 01:37:54 - src.train_model - INFO - Saving the train and test data
+2024-05-13 01:37:54 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715582271
+2024-05-13 01:37:54 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 01:37:54 - src.train_model - INFO - Finished saving trained model to runs/1715582271/trained_model_object.pkl
+2024-05-13 01:37:54 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 02:29:17 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 02:29:18 - src.acquire_data - INFO - Data written to runs/1715585357/clouds.data
+2024-05-13 02:29:18 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 02:29:19 - src.create_dataset - INFO - Dataset saved to CSV file at runs/1715585357/clouds.csv
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_1.png
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_2.png
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_3.png
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_4.png
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_5.png
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_6.png
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_7.png
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_8.png
+2024-05-13 02:29:20 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_9.png
+2024-05-13 02:29:21 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_10.png
+2024-05-13 02:29:21 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_11.png
+2024-05-13 02:29:21 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_12.png
+2024-05-13 02:29:21 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_13.png
+2024-05-13 02:29:21 - src.analysis - INFO - Figure saved to: runs/1715585357/figures/figure_14.png
+2024-05-13 02:29:21 - src.train_model - INFO - Training started...
+2024-05-13 02:29:21 - src.train_model - INFO - Training completed.
+2024-05-13 02:29:21 - src.train_model - INFO - Saving the train and test data
+2024-05-13 02:29:21 - src.train_model - INFO - Data saved successfully. Train and test data saved to runs/1715585357
+2024-05-13 02:29:21 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 02:29:21 - src.train_model - INFO - Finished saving trained model to runs/1715585357/trained_model_object.pkl
+2024-05-13 02:29:21 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 11:28:15 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 11:28:16 - src.acquire_data - INFO - Data written to artifacts/1715617695/clouds.data
+2024-05-13 11:28:16 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 11:28:16 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715617695/clouds.csv
+2024-05-13 11:28:17 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_1.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_2.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_3.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_4.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_5.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_6.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_7.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_8.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_9.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_10.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_11.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_12.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_13.png
+2024-05-13 11:28:18 - src.analysis - INFO - Figure saved to: artifacts/1715617695/figures/figure_14.png
+2024-05-13 11:28:18 - src.train_model - INFO - Training started...
+2024-05-13 11:28:18 - src.train_model - INFO - Training completed.
+2024-05-13 11:28:18 - src.train_model - INFO - Saving the train and test data
+2024-05-13 11:28:18 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715617695
+2024-05-13 11:28:18 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 11:28:18 - src.train_model - INFO - Finished saving trained model to artifacts/1715617695/trained_model_object.pkl
+2024-05-13 11:28:18 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 11:29:08 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 16:43:48 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 16:43:48 - src.acquire_data - INFO - Data written to artifacts/1715618628/clouds.data
+2024-05-13 16:43:49 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 16:43:49 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715618628/clouds.csv
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_1.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_2.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_3.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_4.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_5.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_6.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_7.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_8.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_9.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_10.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_11.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_12.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_13.png
+2024-05-13 16:43:49 - src.analysis - INFO - Figure saved to: artifacts/1715618628/figures/figure_14.png
+2024-05-13 16:43:49 - src.train_model - INFO - Training started...
+2024-05-13 16:43:49 - src.train_model - INFO - Training completed.
+2024-05-13 16:43:49 - src.train_model - INFO - Saving the train and test data
+2024-05-13 16:43:49 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715618628
+2024-05-13 16:43:49 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 16:43:49 - src.train_model - INFO - Finished saving trained model to artifacts/1715618628/trained_model_object.pkl
+2024-05-13 16:43:49 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 16:44:07 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 16:44:08 - src.acquire_data - INFO - Data written to artifacts/1715618647/clouds.data
+2024-05-13 16:44:08 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 16:44:08 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715618647/clouds.csv
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_1.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_2.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_3.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_4.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_5.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_6.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_7.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_8.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_9.png
+2024-05-13 16:44:08 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_10.png
+2024-05-13 16:44:09 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_11.png
+2024-05-13 16:44:09 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_12.png
+2024-05-13 16:44:09 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_13.png
+2024-05-13 16:44:09 - src.analysis - INFO - Figure saved to: artifacts/1715618647/figures/figure_14.png
+2024-05-13 16:44:09 - src.train_model - INFO - Training started...
+2024-05-13 16:44:09 - src.train_model - INFO - Training completed.
+2024-05-13 16:44:09 - src.train_model - INFO - Saving the train and test data
+2024-05-13 16:44:09 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715618647
+2024-05-13 16:44:09 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 16:44:09 - src.train_model - INFO - Finished saving trained model to artifacts/1715618647/trained_model_object.pkl
+2024-05-13 16:44:09 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 13:53:20 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 13:53:21 - src.acquire_data - INFO - Data written to artifacts/1715626400/clouds.data
+2024-05-13 13:53:21 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 13:53:21 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715626400/clouds.csv
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_1.png
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_2.png
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_3.png
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_4.png
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_5.png
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_6.png
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_7.png
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_8.png
+2024-05-13 13:53:23 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_9.png
+2024-05-13 13:53:24 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_10.png
+2024-05-13 13:53:24 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_11.png
+2024-05-13 13:53:24 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_12.png
+2024-05-13 13:53:24 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_13.png
+2024-05-13 13:53:24 - src.analysis - INFO - Figure saved to: artifacts/1715626400/figures/figure_14.png
+2024-05-13 13:53:24 - src.train_model - INFO - Training started...
+2024-05-13 13:53:24 - src.train_model - INFO - Training completed.
+2024-05-13 13:53:24 - src.train_model - INFO - Saving the train and test data
+2024-05-13 13:53:24 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715626400
+2024-05-13 13:53:24 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 13:53:24 - src.train_model - INFO - Finished saving trained model to artifacts/1715626400/trained_model_object.pkl
+2024-05-13 13:53:24 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 13:53:42 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 13:53:42 - src.acquire_data - INFO - Data written to artifacts/1715626422/clouds.data
+2024-05-13 13:53:42 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 13:53:42 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715626422/clouds.csv
+2024-05-13 13:53:43 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_1.png
+2024-05-13 13:53:43 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_2.png
+2024-05-13 13:53:43 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_3.png
+2024-05-13 13:53:43 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_4.png
+2024-05-13 13:53:43 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_5.png
+2024-05-13 13:53:43 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_6.png
+2024-05-13 13:53:44 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_7.png
+2024-05-13 13:53:44 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_8.png
+2024-05-13 13:53:44 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_9.png
+2024-05-13 13:53:44 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_10.png
+2024-05-13 13:53:44 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_11.png
+2024-05-13 13:53:44 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_12.png
+2024-05-13 13:53:44 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_13.png
+2024-05-13 13:53:44 - src.analysis - INFO - Figure saved to: artifacts/1715626422/figures/figure_14.png
+2024-05-13 13:53:44 - src.train_model - INFO - Training started...
+2024-05-13 13:53:44 - src.train_model - INFO - Training completed.
+2024-05-13 13:53:44 - src.train_model - INFO - Saving the train and test data
+2024-05-13 13:53:44 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715626422
+2024-05-13 13:53:44 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 13:53:44 - src.train_model - INFO - Finished saving trained model to artifacts/1715626422/trained_model_object.pkl
+2024-05-13 13:53:44 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 13:54:56 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 13:54:56 - src.acquire_data - INFO - Data written to artifacts/1715626496/clouds.data
+2024-05-13 13:54:56 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 13:54:56 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715626496/clouds.csv
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_1.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_2.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_3.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_4.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_5.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_6.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_7.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_8.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_9.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_10.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_11.png
+2024-05-13 13:54:58 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_12.png
+2024-05-13 13:54:59 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_13.png
+2024-05-13 13:54:59 - src.analysis - INFO - Figure saved to: artifacts/1715626496/figures/figure_14.png
+2024-05-13 13:54:59 - src.train_model - INFO - Training started...
+2024-05-13 13:54:59 - src.train_model - INFO - Training completed.
+2024-05-13 13:54:59 - src.train_model - INFO - Saving the train and test data
+2024-05-13 13:54:59 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715626496
+2024-05-13 13:54:59 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 13:54:59 - src.train_model - INFO - Finished saving trained model to artifacts/1715626496/trained_model_object.pkl
+2024-05-13 13:54:59 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 13:55:03 - src.aws_utils - INFO - Artifacts uploaded to S3 successfully
+2024-05-13 13:58:12 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 13:58:15 - src.acquire_data - INFO - Data written to artifacts/1715626692/clouds.data
+2024-05-13 13:58:15 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 13:58:15 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715626692/clouds.csv
+2024-05-13 13:58:16 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_1.png
+2024-05-13 13:58:16 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_2.png
+2024-05-13 13:58:16 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_3.png
+2024-05-13 13:58:16 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_4.png
+2024-05-13 13:58:16 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_5.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_6.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_7.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_8.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_9.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_10.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_11.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_12.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_13.png
+2024-05-13 13:58:17 - src.analysis - INFO - Figure saved to: artifacts/1715626692/figures/figure_14.png
+2024-05-13 13:58:17 - src.train_model - INFO - Training started...
+2024-05-13 13:58:17 - src.train_model - INFO - Training completed.
+2024-05-13 13:58:17 - src.train_model - INFO - Saving the train and test data
+2024-05-13 13:58:17 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715626692
+2024-05-13 13:58:17 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 13:58:17 - src.train_model - INFO - Finished saving trained model to artifacts/1715626692/trained_model_object.pkl
+2024-05-13 13:58:17 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 13:58:21 - src.aws_utils - INFO - Artifacts uploaded to S3 successfully
+2024-05-13 14:06:34 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 14:06:35 - src.acquire_data - INFO - Data written to artifacts/1715627194/clouds.data
+2024-05-13 14:06:35 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 14:06:35 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715627194/clouds.csv
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_1.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_2.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_3.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_4.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_5.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_6.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_7.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_8.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_9.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_10.png
+2024-05-13 14:06:38 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_11.png
+2024-05-13 14:06:39 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_12.png
+2024-05-13 14:06:39 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_13.png
+2024-05-13 14:06:39 - src.analysis - INFO - Figure saved to: artifacts/1715627194/figures/figure_14.png
+2024-05-13 14:06:39 - src.train_model - INFO - Training started...
+2024-05-13 14:06:39 - src.train_model - INFO - Training completed.
+2024-05-13 14:06:39 - src.train_model - INFO - Saving the train and test data
+2024-05-13 14:06:39 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715627194
+2024-05-13 14:06:39 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 14:06:39 - src.train_model - INFO - Finished saving trained model to artifacts/1715627194/trained_model_object.pkl
+2024-05-13 14:06:39 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 14:06:42 - src.aws_utils - INFO - Artifacts uploaded to S3 successfully
+2024-05-13 19:12:51 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 19:12:52 - src.acquire_data - INFO - Data written to artifacts/1715627571/clouds.data
+2024-05-13 19:12:52 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 19:12:52 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715627571/clouds.csv
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_1.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_2.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_3.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_4.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_5.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_6.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_7.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_8.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_9.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_10.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_11.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_12.png
+2024-05-13 19:12:52 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_13.png
+2024-05-13 19:12:53 - src.analysis - INFO - Figure saved to: artifacts/1715627571/figures/figure_14.png
+2024-05-13 19:12:53 - src.train_model - INFO - Training started...
+2024-05-13 19:12:53 - src.train_model - INFO - Training completed.
+2024-05-13 19:12:53 - src.train_model - INFO - Saving the train and test data
+2024-05-13 19:12:53 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715627571
+2024-05-13 19:12:53 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 19:12:53 - src.train_model - INFO - Finished saving trained model to artifacts/1715627571/trained_model_object.pkl
+2024-05-13 19:12:53 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 19:12:56 - src.aws_utils - INFO - Artifacts uploaded to S3 successfully
+2024-05-13 19:25:11 - clouds - INFO - Configuration file loaded from config/default-config.yaml
+2024-05-13 19:25:12 - src.acquire_data - INFO - Data written to artifacts/1715628311/clouds.data
+2024-05-13 19:25:12 - src.create_dataset - INFO - Saving dataset to CSV file...
+2024-05-13 19:25:12 - src.create_dataset - INFO - Dataset saved to CSV file at artifacts/1715628311/clouds.csv
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_1.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_2.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_3.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_4.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_5.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_6.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_7.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_8.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_9.png
+2024-05-13 19:25:12 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_10.png
+2024-05-13 19:25:13 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_11.png
+2024-05-13 19:25:13 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_12.png
+2024-05-13 19:25:13 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_13.png
+2024-05-13 19:25:13 - src.analysis - INFO - Figure saved to: artifacts/1715628311/figures/figure_14.png
+2024-05-13 19:25:13 - src.train_model - INFO - Training started...
+2024-05-13 19:25:13 - src.train_model - INFO - Training completed.
+2024-05-13 19:25:13 - src.train_model - INFO - Saving the train and test data
+2024-05-13 19:25:13 - src.train_model - INFO - Data saved successfully. Train and test data saved to artifacts/1715628311
+2024-05-13 19:25:13 - src.train_model - INFO - Saving the trained model into a pickle file
+2024-05-13 19:25:13 - src.train_model - INFO - Finished saving trained model to artifacts/1715628311/trained_model_object.pkl
+2024-05-13 19:25:13 - src.score_model - INFO - Evaluation scores saved to CSV file.
+2024-05-13 19:25:16 - src.aws_utils - INFO - Artifacts uploaded to S3 successfully

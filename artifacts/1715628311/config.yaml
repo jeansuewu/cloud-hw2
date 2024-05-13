@@ -1,0 +1,42 @@
+aws:
+  bucket_name: qin6843-clouds
+  prefix: experiments
+  upload: true
+create_dataset:
+  columns:
+  - visible_mean
+  - visible_max
+  - visible_min
+  - visible_mean_distribution
+  - visible_contrast
+  - visible_entropy
+  - visible_second_angular_momentum
+  - IR_mean
+  - IR_max
+  - IR_min
+generate_features:
+  calculate_norm_range:
+    IR_norm_range:
+      max_col: IR_max
+      mean_col: IR_mean
+      min_col: IR_min
+  log_transform:
+    log_entropy: visible_entropy
+  multiply:
+    entropy_x_contrast:
+      col_a: visible_contrast
+      col_b: visible_entropy
+model_training:
+  hyperparameters:
+    max_depth: 10
+    n_estimators: 10
+  model_type: RandomForestClassifier
+run_config:
+  author: Suzie Wu
+  data_source: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/taylor/cloud.data
+  dependencies: requirements.txt
+  description: Classifies clouds into one of two types.
+  name: cloud-classifier
+  output: artifacts
+  version: default
+test_size: 0.4
